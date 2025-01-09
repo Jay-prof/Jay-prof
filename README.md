@@ -1,5 +1,6 @@
 # 🌟 Welcome to My GitHub!  
 
+
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello!%20I'm%20Jay%20Prajapati!&fontAlign=50&fontSize=35&fontColor=white)
 
 ---
@@ -40,4 +41,11 @@ Hi there! I’m **Jay Prajapati**, a passionate **developer and tech enthusiast*
 
 📧 **Email**: jay.prajapati.gj@example.com  
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+---
+
