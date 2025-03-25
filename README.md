@@ -6,7 +6,7 @@
 ---
 
 ## 👩‍💻 About Me  
-Hi there! I’m **Jay Prajapati**, a passionate **developer and tech enthusiast** who loves to solve problems and create innovative solutions.  
+Hi there! I’m **Jay**, a passionate **developer and tech enthusiast** who loves to solve problems and create innovative solutions.  
 - 🎓 **Graduate** from **HNGU (Hemchandracharya North Gujarat University, Patan, Gujarat)**.  
 - 🌱 Currently **learning new tools and technologies** to stay ahead in the tech world.  
 - 🚀 I enjoy **exploring challenges** in development and **building applications** with a purpose.  
