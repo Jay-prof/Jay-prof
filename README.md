@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub!  
 
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello!%20I'm%20Jay%20Prajapati!&fontAlign=50&fontSize=35&fontColor=white)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello!%20I'm%20Jay%20!&fontAlign=50&fontSize=35&fontColor=white)
 
 ---
 
